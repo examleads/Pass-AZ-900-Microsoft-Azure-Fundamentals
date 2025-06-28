@@ -55,8 +55,11 @@ This repository is carefully crafted and regularly updated to help you succeed.
 ### Q1. What is an example of a Platform as a Service (PaaS)?
 
 **A.** Azure App Service  ✅
+
 **B.** Azure VM
+
 **C.** Azure Blob Storage
+
 **D.** Azure Virtual Network
 
 > **Explanation:** App Service lets you host web apps without managing infrastructure — that's PaaS.
@@ -64,8 +67,11 @@ This repository is carefully crafted and regularly updated to help you succeed.
 ### Q2. Which service provides a global content delivery network?
 
 **A.** Azure Traffic Manager
+
 **B.** Azure CDN ✅
+
 **C.** Azure Front Door
+
 **D.** Azure Load Balancer
 
 > **Explanation:** Azure CDN provides a global distributed network for delivering content fast.
@@ -73,8 +79,11 @@ This repository is carefully crafted and regularly updated to help you succeed.
 ### Q3. Which Azure tool helps estimate the cost of services?
 
 **A.** Azure Monitor
+
 **B.** Azure Advisor
+
 **C.** Azure Pricing Calculator ✅
+
 **D.** Azure Cost Management
 
 > **Explanation:** The Pricing Calculator is used to **estimate** future Azure service costs.
@@ -82,8 +91,11 @@ This repository is carefully crafted and regularly updated to help you succeed.
 ### Q4. Azure regions are:
 
 **A.** Data centers grouped by geography ✅
+
 **B.** Virtual machines on the cloud
+
 **C.** Pricing zones
+
 **D.** Subscription groups
 
 > **Explanation:** Azure regions are geographic groupings of datacenters.
@@ -91,8 +103,11 @@ This repository is carefully crafted and regularly updated to help you succeed.
 ### Q5. What is a benefit of public cloud?
 
 **A.** High initial cost
+
 **B.** Shared responsibility model
+
 **C.** On-premises security control
+
 **D.** Scalability and flexibility ✅
 
 > **Explanation:** Public cloud allows scalability and flexibility without infrastructure investment.
